@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">proga</string>
+    <string name="welcom_back">Рады вас видеть</string>
+    <string name="login_to_continue">Войдите, чтобы продолжить</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="password2">Пожалуйста введите пароль</string>
+    <string name="password3">Пароль должен содержать не менее 6 символов</string>
+    <string name="sign_in">Войти</string>
+    <string name="create_new_account">Создать аккаунт</string>
+    <string name="add_image">Фото</string>
+    <string name="name">Имя</string>
+    <string name="o_sebe">Имя</string>
+    <string name="nepoluchilos">Не удалось войти </string>
+    <string name="confirm_password">Повторите пароль</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="otpravit">Отправить</string>
+    <string name="skip">Пропустить</string>
+    <string name="zabil_password">Забыли пароль?</string>
+    <string name="no_registr">Не удалось зарегестрироваться</string>
+    <string name="verification_email">Мы выслали вам на почту письмо для подтверждения</string>
+    <string name="nepoluchilos_verification_email">Мы не смогли отправить вам письмо для подтверждения, проверьте правильность написания вашего email</string>
+    <string name="progress">Пожалуйста пожодите</string>
+    <string name="nevernaya_pochta">Неверный формат электронной почты</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exit">Выход</string>
+    <string name="photo">Изменить фото</string>
+    <string name="familia">Фамилия</string>
+    <string name="interes_setting">Интересы</string>
+    <string name="save">Сохранить</string>
+    <string name="message">Сообщения</string>
+    <string name="setting">Настройки</string>
+    <string name="people">Рекомендации</string>
+    <string name="group">Группы</string>
+</resources>

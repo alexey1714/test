@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905977521216",
+    "firebase_url": "https://proga-27f21-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "proga-27f21",
+    "storage_bucket": "proga-27f21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905977521216:android:9a538e40985d15e72e2ba5",
+        "android_client_info": {
+          "package_name": "com.example.proga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905977521216-ccrduqpi32nubmfv9ch9nqd0tql3uje6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proga",
+            "certificate_hash": "a03a0c0dcb5696e4e0284b3516e51ff861900867"
+          }
+        },
+        {
+          "client_id": "905977521216-2jthl14v8us6a48k7oj3s5qc6cpmiab1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMODPIclta2dl9r29psfQKIqoBgyZTvUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905977521216-2jthl14v8us6a48k7oj3s5qc6cpmiab1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
